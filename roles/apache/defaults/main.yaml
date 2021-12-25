@@ -1,0 +1,7 @@
+index_file: index.html
+document_root: /var/www/html
+website_list:
+      - kate.com
+      - devops.com
+      - test.com
+      - example.com
